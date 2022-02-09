@@ -9,7 +9,6 @@
 
 
 
-* 시각화 결과
 
 ![image](https://user-images.githubusercontent.com/92901372/153145041-9013d1dc-f464-4210-b07c-fa40a75de2a7.png)
 
