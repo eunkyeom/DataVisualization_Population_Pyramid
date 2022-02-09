@@ -1,5 +1,5 @@
 # DataVisualization-Population_Pyramid
-* 데이터 시각화 - 인구 피라미드 프로젝트
+## 데이터 시각화 - 인구 피라미드 프로젝트
 
 파이썬의 matplotlib을 활용하여 지난 10년간의 인구 변화를 알아보기 위한 개인 프로젝트 입니다.
 
@@ -9,7 +9,7 @@
 
 
 
-## 시각화 결과
+* 시각화 결과
 
 ![image](https://user-images.githubusercontent.com/92901372/153145041-9013d1dc-f464-4210-b07c-fa40a75de2a7.png)
 
